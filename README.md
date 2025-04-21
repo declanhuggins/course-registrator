@@ -1,1 +1,1 @@
-# course-registrator
+# Course Registrator for Notre Dame
