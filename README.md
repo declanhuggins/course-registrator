@@ -7,7 +7,9 @@ OTP_SECRET=
 ```
 
 brew install chromedriver
+
 brew install --cask google-chrome
 
 brew install node
+
 npm install
